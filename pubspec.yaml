@@ -9,6 +9,7 @@ environment:
   sdk: ^3.5.3
 
 dependencies:
+  cloud_firestore: ^4.17.5
   appwrite: ^11.0.1
   firebase_core: ^2.23.0
   firebase_auth: ^4.14.1
